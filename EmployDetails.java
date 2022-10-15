@@ -27,7 +27,8 @@ public class EmployDetails {
 		a.employId();
 		a.employName();
 		System.out.println("java");
-	
+		System.out.println("python");
+	    
 
 		
 
